@@ -27,6 +27,7 @@ random logic, inspirational quotes, and a sprinkle of chaos for developers 🚀�
 - Finds the maximum 🏆
 - Prints a motivational quote 💡
 
+
 ---
 
 ## 🚀 Getting Started
@@ -57,4 +58,4 @@ If you find a bug 🐛 or want to add new chaos ✨, feel free to open an issue.
 
 This project is licensed under the MIT License – free to use, modify, and share.
 
-
+💡 Random chaos generator — now with extra madness 😜
